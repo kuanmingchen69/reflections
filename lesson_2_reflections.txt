@@ -1,2 +1,4 @@
 What happens when you initialize a repository? Why do you need to do it?
 A hidden file named .git is created. You can start tracking by using git.
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+It is somewhere in between. Not sure.
