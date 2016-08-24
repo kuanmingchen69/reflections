@@ -2,3 +2,5 @@ Why would you want to create a remote repository rather than keep all your files
 To share the files.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 I can control.
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork copies files from other’s repository to mine on GitHub. Clone copies files from GitHub to local or local to local. Branch make additional tracking path in development route.
